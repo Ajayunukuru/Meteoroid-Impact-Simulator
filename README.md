@@ -1,4 +1,4 @@
-# Asteroid Impact Simulator
+# Meteoroid Impact Simulator
 
 A comprehensive web application for simulating asteroid impacts with realistic physics calculations and stunning 3D visualizations.
 
